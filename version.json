@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.23",
-  "versionCode": 23,
-  "releaseNotes": "Delete app/src/main/res/drawable directory",
-  "downloadUrl": "https://github.com/MuzRC/Mill-Tycoon/releases/download/v1.0.23/MillTycoon-v1.0.23-signed.apk"
+  "latestVersion": "1.0.25",
+  "versionCode": 25,
+  "releaseNotes": "Update Factory3DCanvas.kt",
+  "downloadUrl": "https://github.com/MuzRC/Mill-Tycoon/releases/download/v1.0.25/MillTycoon-v1.0.25-signed.apk"
 }
